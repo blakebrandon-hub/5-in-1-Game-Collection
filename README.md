@@ -30,7 +30,7 @@
 
 ### Garden World
 
-<img width="688" height="723" alt="Screenshot 2026-03-25 001727" src="https://github.com/user-attachments/assets/5b5ca6f1-303f-45ee-82da-754af9b7863c" />
+<img width="2560" height="1440" alt="Screenshot 2026-03-25 131431" src="https://github.com/user-attachments/assets/239b2097-0041-4ea5-b7b8-dec04f1f63cd" />
 
 ---
 
