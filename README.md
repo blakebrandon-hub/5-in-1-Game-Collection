@@ -1,9 +1,5 @@
 # 🕹️ The 5-in-1 Game Collection
 
-Welcome to the hub.
-
-Choose your game below:
-
 | Title | Built With | What it is | Status |
 | :--- | :---: | :--- | :---: |
 | **[Sprawl](https://github.com/blakebrandon-hub/Sprawl)** | HTML/JS | *Navigate the neon-lit underbelly of a sprawling cyberpunk metropolis in this interactive text adventure.* | [💻 View Code](https://github.com/blakebrandon-hub/Sprawl) |
