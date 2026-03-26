@@ -2,7 +2,7 @@
 
 | Title | Built With | What it is | Status |
 | :--- | :---: | :--- | :---: |
-| **[Sprawl](https://github.com/blakebrandon-hub/Sprawl)** | HTML/JS/Python | *Navigate the neon-lit underbelly of a sprawling cyberpunk metropolis in this interactive text adventure.* | [💻 View Code](https://github.com/blakebrandon-hub/Sprawl) |
+| **[Sprawl](https://github.com/blakebrandon-hub/Sprawl)** | HTML/JS/Python | *John is an operator who drifted too deep into the heavy-metal end of the trade and never found a clean way back. Now he works the Sprawl—contracts, deadlines, and whatever else comes his way.* | [💻 View Code](https://github.com/blakebrandon-hub/Sprawl) |
 | **[Warden](https://github.com/blakebrandon-hub/Warden)** | HTML/JS/Python | *Stand against the Void as humanity’s last defense. Master 32 ancient Words of power, forge oaths across four kingdoms, and hold the line between reality and oblivion.* | [💻 View Code](https://github.com/blakebrandon-hub/Wardem) |
 | **[Greywake](https://www.google.com/search?q=link-to-repo)** | HTML/JS/Python | *A narrative-driven space adventure where your decisions echo across the cosmos. Explore alien worlds, navigate political intrigue, and uncover mysteries older than the stars.* | [💻 View Code](https://www.google.com/search?q=link-to-repo) |
 | **[Black-Ichor](https://github.com/blakebrandon-hub/Black-Ichor)** | HTML/JS/Python | *Scavenge the ruins. Fortify the Sanctuary. Fight the Ichor. In a world of liquid shadow, the caloric math is absolute. Survive a visceral, text-based reality where every resource is scarce and the silence is your only warning.* | [💻 View Code](https://github.com/blakebrandon-hub/Black-Ichor) |
