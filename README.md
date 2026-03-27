@@ -42,12 +42,6 @@
 <img width="1366" alt="Black Ichor gameplay screenshot" src="https://github.com/user-attachments/assets/19a22bff-ba14-43df-9ca0-21da4afb6ced" />
 </details>
 
-<details>
-<summary><b>Garden World</b></summary>
-<br>
-<img width="2560" alt="Garden World gameplay screenshot" src="https://github.com/user-attachments/assets/1fa78700-a5fa-483b-ba28-0f630e1c42b7" />
-</details>
-
 ---
 
 ## 🤖 AI Integration
