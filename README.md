@@ -153,3 +153,9 @@ Each game directory contains its own `index.html` with all game logic self-conta
 ## License
 
 Each game maintains its own licensing. Check individual repositories for details.
+
+---
+
+## Screenshot
+
+<img width="1366" height="768" alt="Screenshot 2026-03-27 182217" src="https://github.com/user-attachments/assets/3651ed42-ebf6-4b8b-b345-115abb14fa6b" />
