@@ -12,7 +12,7 @@
 | **[Warden](https://github.com/blakebrandon-hub/Warden)** | *Stand against the Void as humanity's last defense. Master 32 ancient Words of power, forge oaths across four kingdoms, and hold the line between reality and oblivion.* | HTML • JS • Python | [💻 Code](https://github.com/blakebrandon-hub/Warden) |
 | **[Greywake](https://github.com/blakebrandon-hub/Greywake)** | *A narrative-driven space adventure where your decisions echo across the cosmos. Explore alien worlds, navigate political intrigue, and uncover mysteries older than the stars.* | HTML • JS • Python | [💻 Code](https://www.google.com/search?q=link-to-repo) |
 | **[Black Ichor](https://github.com/blakebrandon-hub/Black-Ichor)** | *Scavenge the ruins. Fortify the Sanctuary. Fight the Ichor. In a world of liquid shadow, the caloric math is absolute. Survive a visceral, text-based reality where every resource is scarce and the silence is your only warning.* | HTML • JS • Python | [💻 Code](https://github.com/blakebrandon-hub/Black-Ichor) |
-| **[Garden World](https://github.com/blakebrandon-hub/Garden-World)** | *A cozy, two-player narrative simulation about co-authoring a shared routine and tending a hydroponic garden in deep space.* | HTML • JS • Python | [💻 Code](https://github.com/blakebrandon-hub/Garden-World) |
+
 
 ---
 
