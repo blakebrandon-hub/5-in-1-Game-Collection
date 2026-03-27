@@ -12,7 +12,7 @@ import os
 import base64
 import json
 import time
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, send_from_directory, Blueprint
 from flask_cors import CORS
 from google import genai
 from google.genai import types
@@ -25,6 +25,50 @@ from openai import OpenAI
 
 app = Flask(__name__, static_url_path='', static_folder='static')
 CORS(app)  # Enable CORS for local development
+
+# 1. Update your Flask initialization to remove the default static line
+app = Flask(__name__)
+CORS(app)
+
+# ─────────────────────────────────────────────
+# GAME ROUTES (TEMPLATES & AUDIO)
+# ─────────────────────────────────────────────
+
+# --- SPRAWL ---
+@app.route('/Sprawl/index.html')
+def play_sprawl():
+    return send_from_directory('templates_sprawl', 'index.html')
+
+@app.route('/Sprawl/<path:filename>')
+def serve_sprawl_static(filename):
+    return send_from_directory('static_sprawl', filename)
+
+# --- BLACK ICHOR ---
+@app.route('/Black-Ichor/index.html')
+def play_ichor():
+    return send_from_directory('templates_ichor', 'index.html')
+
+@app.route('/Black-Ichor/<path:filename>')
+def serve_ichor_static(filename):
+    return send_from_directory('static_ichor', filename)
+
+# --- WARDEN ---
+@app.route('/Warden/index.html')
+def play_warden():
+    return send_from_directory('templates_warden', 'index.html')
+
+@app.route('/Warden/<path:filename>')
+def serve_warden_static(filename):
+    return send_from_directory('static_warden', filename)
+
+# --- GREYWAKE ---
+@app.route('/Greywake/index.html')
+def play_greywake():
+    return send_from_directory('templates_greywake', 'index.html')
+
+@app.route('/Greywake/<path:filename>')
+def serve_greywake_static(filename):
+    return send_from_directory('static_greywake', filename)
 
 # ─────────────────────────────────────────────
 # MODEL SELECTION
