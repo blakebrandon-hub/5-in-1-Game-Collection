@@ -70,7 +70,7 @@ Visit individual repositories for setup instructions and documentation.
 ## 🔗 More Projects
 
 Explore my other work:
-- **[5-in-1 AI Workspace](https://github.com/blakebrandon-hub/5-in-1-AI-Workspace)** — Comprehensive AI development environment
+- **[4-in-1 AI Workspace](https://github.com/blakebrandon-hub/5-in-1-AI-Workspace)** — Comprehensive AI development environment
 
 ---
 
