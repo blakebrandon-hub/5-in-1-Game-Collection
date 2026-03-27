@@ -83,3 +83,7 @@ Explore my other work:
 ## 📄 License
 
 Each project maintains its own licensing. Check individual repositories for details.
+
+## Screenshot
+
+<img width="2560" height="1440" alt="Screenshot 2026-03-27 115109" src="https://github.com/user-attachments/assets/febac357-0732-4f86-ac7f-c8674fdbe43e" />
