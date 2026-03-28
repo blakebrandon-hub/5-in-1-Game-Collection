@@ -32,10 +32,10 @@ A post-apocalyptic survival game with real resource pressure (HP, Pressure, Nois
 
 Turn any world you build into a fully AI-playable text adventure
 
-Drag-and-drop lore, characters, and rules
-Define "glyphs" that automatically track stats, inventory, and world state
-Compile a fully playable AI narrative game with one click
-Swap between Claude, Gemini, or GPT for narration
+* Drag-and-drop lore, characters, and rules
+* Define "glyphs" that automatically track stats, inventory, and world state
+* Compile a fully playable AI narrative game with one click
+* Swap between Claude, Gemini, or GPT for narration
 
 GitHub: [Etching Press](https://github.com/blakebrandon-hub/Etching-Press/)
 
