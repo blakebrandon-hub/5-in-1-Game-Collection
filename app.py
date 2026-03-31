@@ -16,10 +16,6 @@ from openai import OpenAI
 app = Flask(__name__, static_url_path='', static_folder='static')
 CORS(app)  # Enable CORS for local development
 
-# 1. Update your Flask initialization to remove the default static line
-app = Flask(__name__)
-CORS(app)
-
 # ─────────────────────────────────────────────
 # GAME ROUTES (TEMPLATES & AUDIO)
 # ─────────────────────────────────────────────
